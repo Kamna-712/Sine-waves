@@ -1,0 +1,10 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kamna",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9"
+  }
+}
